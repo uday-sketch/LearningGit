@@ -3,4 +3,4 @@ let a, b;
 a = 12;
 b = 12;
 
-console.log(a+b);
+console.log("The sum of a+b is", a+b);
